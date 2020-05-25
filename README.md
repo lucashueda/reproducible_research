@@ -15,7 +15,11 @@ The files are organized as follow:
 
 
 
+# Paper
 
+By now the paper is under writing. The main sections and an initial text about dependent methods are already on the document.
+
+Link : https://www.overleaf.com/4698742524tnymchwsksph
 
 
 # Licenses
