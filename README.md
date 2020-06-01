@@ -13,13 +13,25 @@ The files are organized as follow:
   - /figures - Figures used on research
   - /utils - Some recommendations about the process of research in a Best Practices file
 
+# Requisites
+
+To run our "Juyter_Reproducible_paper.ipynb" in "/deliver" folder you must install the pre requisites:
+
+Clone the repository
+
+Go to the repository paste, where there is the "requirements.txt"
+
+Type "pip install -r requeriments.txt (Better inside a VirtualEnv with python 3 installed)
+
+Done, you should be able to run the notebook
 
 
 # Paper
 
 By now the paper is under writing. The main sections and an initial text about dependent methods are already on the document.
 
-Link : https://www.overleaf.com/4698742524tnymchwsksph
+Jupyter : https://github.com/lucashueda/reproducible_research/blob/master/deliver/Jupyter_Reproducible_paper.ipynb
+Overleaf : https://www.overleaf.com/4698742524tnymchwsksph
 
 
 # Licenses
