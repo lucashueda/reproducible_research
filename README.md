@@ -31,7 +31,7 @@ Done. You should be able to run the reproducible paper.
 
 # How to run
 
-To run the entire pipeline you must first run all cells of the following notebooks:
+To run the entire pipeline you must run all cells of the following notebooks inside the conda env:
 
 <code> /dev/Training Language Model.ipynb </code>
 
@@ -46,8 +46,6 @@ Finally:
 
 By now the paper is under writing. The main sections and an initial text about dependent methods are already on the document.
 
-Jupyter : https://github.com/lucashueda/reproducible_research/blob/master/deliver/Jupyter_Reproducible_paper.ipynb
-Overleaf : https://www.overleaf.com/4698742524tnymchwsksph
 
 
 # Licenses
