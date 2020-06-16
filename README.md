@@ -15,15 +15,31 @@ The files are organized as follow:
 
 # Requisites
 
-To run our "Juyter_Reproducible_paper.ipynb" in "/deliver" folder you must install the pre requisites:
+To run our "Reproducible Paper.ipynb" in "/deliver" folder you must first install the pre requisites:
 
-Clone the repository
+Install Anaconda with python 3
 
-Go to the repository paste, where there is the "requirements.txt"
+Then clone the repository
 
-Type "pip install -r requeriments.txt (Better inside a VirtualEnv with python 3 installed)
+Open the Anaconda Prompt
 
-Done, you should be able to run the notebook
+Go to the repository folder, where there is the "environment.yml"
+
+Type "conda env create -f environment.yml" and then "conda activate reproducibility"
+
+Done. You should be able to run the reproducible paper.
+
+# How to run
+
+To run the entire pipeline you must first run all cells of the following notebooks:
+
+<code> /dev/Training Language Model.ipynb </code>
+
+<code> /deliver/Generate_dependencies.ipynb </code>
+
+Finally:
+
+<code> /deliver/Reproducible Paper.ipynb </code>
 
 
 # Paper
