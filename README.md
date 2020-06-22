@@ -17,7 +17,25 @@ The files are organized as follow:
 
 To run our "Reproducible Paper.ipynb" in "/deliver" folder you must first install the pre requisites:
 
-Install Anaconda with python 3
+## Ubuntu
+
+You can run the file in ubuntu by installing the dependencies in "requeriments.txt"
+
+So make sure you have python3 and pip3 installed
+
+Git clone this repository
+
+Go to the folder in terminal
+
+Type
+
+<code> python3 -m pip install -r requeriments.txt </code>
+
+Then you should be able to open jupyter and run the notebook.
+
+## Windows 
+
+Install Anaconda with python 3 and make sure you have pip installed
 
 Then clone the repository
 
