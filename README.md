@@ -7,7 +7,7 @@ Repository to the final project of Computational Reproducible Research course fr
 
 The files are organized as follow:
 
-  - /data - Dataset used
+  - /data - Dataset used, if not here download and put on the folder the train.csv file in https://zenodo.org/record/3924900#.XvwnkfJKg5k
   - /deliver - The executable paper and experiment's codes
   - /dev - Codes and notebooks used during the experiment
   - /figures - Figures used on research
@@ -15,7 +15,7 @@ The files are organized as follow:
 
 # Requisites
 
-To run our "Reproducible Paper.ipynb" in "/deliver" folder you must first install the pre requisites:
+To run our "Reproducible_Paper.ipynb" in "/deliver" folder you must first install the pre requisites:
 
 ## Ubuntu
 
@@ -31,7 +31,7 @@ Type
 
 <code> python3 -m pip install -r requeriments.txt </code>
 
-Then you should be able to open jupyter and run the notebook.
+Then you should be able to open jupyter and run the notebook /deliver/Reproducible_paper.ipynb.
 
 ## Windows 
 
@@ -51,18 +51,13 @@ Done. You should be able to run the reproducible paper.
 
 To run the entire pipeline you must run all cells of the following notebooks inside the conda env:
 
-<code> /dev/Training Language Model.ipynb </code>
 
-<code> /deliver/Generate_dependencies.ipynb </code>
-
-Finally:
-
-<code> /deliver/Reproducible Paper.ipynb </code>
+<code> /deliver/Reproducible_Paper.ipynb </code>
 
 
-# Paper
+## Google colab
 
-By now the paper is under writing. The main sections and an initial text about dependent methods are already on the document.
+If you dont have GPU you can run in colab with the notebook: https://drive.google.com/file/d/1CSTXdHgFwJltWDmODIqx-HD7SqyTzjG8/view?usp=sharing
 
 
 
