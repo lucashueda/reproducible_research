@@ -106,7 +106,7 @@ tqdm==4.46.1
 traitlets==4.3.3
 transformers==2.11.0
 umap-learn==0.4.4
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth==0.2.4
 webencodings==0.5.1
 websocket-client==0.57.0
